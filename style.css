@@ -1,0 +1,35 @@
+body 
+
+div {
+    width: 960px; 
+        margin: auto
+}
+
+.head1 {
+    background-color: aqua;
+    color: aliceblue;
+    float: left;
+    margin: auto;
+        padding: 10px;
+                width: auto;
+  }
+
+.head2 {
+    float: right;
+    margin: auto;
+        border: 3px solid green;
+            padding: 10px;
+                width: auto;
+  }
+  .bio {float: left;}
+
+p {
+    clear: both;
+    margin: auto;
+    width: 960px; 
+           color: blueviolet; 
+             background-color: blue;
+        }
+
+a:link {color: blue}
+a:visited {color: purple}
